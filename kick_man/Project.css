@@ -1,0 +1,16 @@
+.container{
+    background-size: 100% 100%;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzirr_kKDmKAJvzFvfbMLtU8wjF1JVS08CvZMYdiSWGnUnvTCE20pz6gJ_p1ONRywiyiA&usqp=CAU"); 
+    background-repeat: no-repeat;
+}
+h1{
+    font-style: italic;
+    color:aquamarine;
+}
+h2{
+    font-family: 'Lucida';
+}
+p{
+    font-style: italic;
+    color: cornflowerblue;
+}
